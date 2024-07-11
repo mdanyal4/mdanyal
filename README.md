@@ -2,9 +2,7 @@
 - 👀 I’m interested in internship & job opportunities
 - 🌱 I’m currently learning Computer Science (Java)
 - 💞️ I’m looking to collaborate on projects, and in workplaces
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me mdanyalimrans@gmail.com
 
 <!---
 danyalimran/danyalimran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
