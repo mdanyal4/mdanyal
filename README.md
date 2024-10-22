@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danyalimran
 - 👀 I’m interested in internship & job opportunities
-- 🌱 I’m currently learning Computer Science (Java)
-- 💞️ I’m looking to collaborate on projects, and in workplaces
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on projects and in workplaces.
 - 📫 How to reach me...
 
 <!---
